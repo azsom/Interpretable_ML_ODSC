@@ -1,0 +1,20 @@
+name: odsc_east_2023
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python = 3.10.10
+  - matplotlib = 3.7.1
+  - pandas = 2.0.1
+  - scikit-learn = 1.2.2
+  - numpy = 1.23.5
+  - py-xgboost = 1.7.4
+  - shap = 0.41.0
+  - ipywidgets
+  - jupyter_client
+  - jupyter_core
+  - jupyterlab
+  - jupyterlab_server
+  - jupytext
+prefix: /opt/conda
+
