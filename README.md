@@ -16,9 +16,9 @@ Please run test_environment.ipynb. It checks the versions of your python and som
 
 You can recreate the python environment using the odsc_east_2022.yml conda environment file by running these two commands in the terminal:
 
-`conda env create -n odsc_east_2022 -f odsc_east_2022.yml`
+`conda env create -n odsc_east_2023 -f odsc_east_2023.yml`
 
-`conda activate odsc_east_2022`
+`conda activate odsc_east_2023`
 
 You should be able to run interpretability_in_ML.ipynb now.
 
