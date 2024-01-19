@@ -1,4 +1,4 @@
-name: odsc_east_2023
+name: odsc_east_2023_a
 channels:
   - conda-forge
   - defaults
